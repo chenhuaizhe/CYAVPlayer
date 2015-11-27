@@ -5,7 +5,7 @@ A Simple AVPlayer For Development
 > 公司需要在app中简单用一段视频介绍公司的产品，本来打算直接链接优酷上的html页面，但考虑到流畅度问题，于是还是决定用iOS原生的。本来以为很简单，三下五除二就写完了MPMoviePlayer的代码，后来想起来了，在iOS 9.0中，这个类被废弃了。于是在网上自己找了一个AVPlayer的Demo，自己简单整理了一下，希望能做到的是：以后要用直接拖过来就能用。
 
 ###导入方法
-*  <strong>下载工程</strong> <a href = 'https://github.com/gangverk/GVMusicPlayerController.git'>https://github.com/chenhuaizhe/CYAVPlayer.git</a>
+*  <strong>下载工程</strong> <a href = 'https://github.com/chenhuaizhe/CYAVPlayer.git'>https://github.com/chenhuaizhe/CYAVPlayer.git</a>
 *  <strong>导入类库 </strong>
 <pre><code>AVFoundation.framework</code></pre>
 *  <strong>在下载的工程中找到<em>movie</em>文件夹，拖到你的工程中</strong>
