@@ -6,7 +6,7 @@ A Simple AVPlayer For Development
 
 ### 导入方法
 
-*  下载工程 <https://github.com/chenhuaizhe/CYAVPlayer.git>(https://github.com/chenhuaizhe/CYAVPlayer.git)
+*  下载工程   [https://github.com/chenhuaizhe/CYAVPlayer.git](https://github.com/chenhuaizhe/CYAVPlayer.git)
 *  导入类库 AVFoundation.framework
 *  在下载的工程中找到**movie**文件夹，拖到你的工程中
 *  在你要用到的类中导入头文件
