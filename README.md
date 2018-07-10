@@ -16,8 +16,8 @@ A Simple AVPlayer For Development
 
 ```objective-c
 PlayerViewController *pvc = [PlayerViewController new];
- pvc.videoURLString = @"这里用你要播放的视频url";
- [self.navigationController pushViewController:pvc animated:YES];
+pvc.videoURLString = @"这里用你要播放的视频url";
+[self.navigationController pushViewController:pvc animated:YES];
 ```
 
 ### 小知识
